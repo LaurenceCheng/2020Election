@@ -1,0 +1,6 @@
+azure-functions
+beautifulsoup4
+lxml
+pandas
+pygsheets
+requests
